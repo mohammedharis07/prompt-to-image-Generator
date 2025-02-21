@@ -89,3 +89,7 @@ python generate.py
 
 Feel free to open an issue or submit a pull request if you want to improve the project!
 
+Drawback
+
+the only issue is that of the image generation taking more time as we are opting for Stable Diffusion model
+
