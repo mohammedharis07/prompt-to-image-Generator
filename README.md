@@ -66,6 +66,25 @@ Restart your system to free up memory.
 
 This project is open-source and available under the MIT License.
 
+🛠 Running the Code from GitHub
+
+Anyone can run this code by following these steps:
+
+Clone the Repository
+
+git clone https://github.com/your-username/prompt-to-image.git
+cd prompt-to-image
+
+Install Dependencies
+
+pip install -r requirements.txt
+
+Run the Script
+
+python generate.py
+
+
+
 🌟 Contributing
 
 Feel free to open an issue or submit a pull request if you want to improve the project!
